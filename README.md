@@ -8,7 +8,7 @@ joshua davis (cwtoolkit -*- covert.codes)
  ------------
 
 This was designed for Linux, with Python 2.7.  This software was created for proof-of-concept
-demonstration of a covert channel (see http://covert.codes).  This is not production grade.
+demonstration of a covert channel.  This is not production grade.
 It does do a pretty good job of encoding, and decoding as long as the input isn't too noisy.
 It does have the capability of forming statistics from the CW message, which may be unique
 among such systems.  If you have trouble using the decoder, adjust the amplification, offset,
